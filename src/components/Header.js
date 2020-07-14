@@ -23,7 +23,7 @@ function Header(){
                 src="https://ggscore.com/media/logo/t51940.png?32"
                 alt="doge"
             />
-            <p >Mheheh</p>
+            <p >Mheheh plz</p>
         </Toolbar>
       </AppBar>
       </ThemeProvider>
